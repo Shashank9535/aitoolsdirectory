@@ -1,2 +1,1 @@
-# aitoolsdirectory
-all ai tools 
+All AI TOOL DIRECTORY
